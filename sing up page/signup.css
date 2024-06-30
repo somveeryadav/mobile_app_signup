@@ -1,0 +1,124 @@
+#new{
+    border: visible;
+    width: 500px;
+  height: 700px;
+  
+    
+        border: 2px solid #ccc;
+        border-radius: 20px 20px 20px 30px; 
+      margin-left: 50px;
+      margin-top: 30px;
+
+}   
+    
+   
+#lar{
+    border: solid;
+    border: visible;
+    width: 100%; /* Full width */
+    display: flex; /* Use flexbox for horizontal layout */
+    padding: 10px; /* Add padding to create a gap */
+}
+#facebook{
+    height: 30px;
+    width: 40px;
+}
+#twitter{
+    height: 30px;
+    width: 40px;
+}
+
+#via{
+    text-align: center;
+    color: blue;
+}
+#or{
+    text-align: center;
+}
+#an{
+    text-align: center;
+}
+#img{
+    margin-left: 100px;
+}
+#two{
+    margin-left: 30px;
+    color: blue;
+}
+#h6{
+    margin-left: 30px;
+}
+#button{
+color: blue;    
+
+}
+#we{
+    background-color: rgb(43, 64, 226);
+    border: 1px solid #ccc;
+        border-radius: 20px 20px 20px 20px; 
+        height: 40px;
+        width: 100px;
+}
+#er{
+    width: calc(33.33% - 20px); /* 33.33% width for each child with padding */
+    height: 700px; /* Set height as needed */
+    border: 1px solid black;
+    box-sizing: border-box; /* Include border in width calculation */
+  margin-top: 25px;
+  margin-left: 50px;
+  border-radius: 20px 20px 20px 30px;
+  
+}
+    #tw{
+        height: 20px;
+        width: 30px;
+
+    }
+    #fb{
+        height: 20px;
+        width: 30px;
+
+    }
+    #tic{
+        height: 20px;
+        width: 30px;
+    }
+    #abc{
+        margin-left: 20px;
+        color: blue;
+    }
+    #abd{
+        margin-left: 20px;
+    }
+    #com{
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+    #third{
+        border: visible;
+        border: solid;
+        width: calc(33.33% - 20px); /* 33.33% width for each child with padding */
+    height: 700px; /* Set height as needed */
+    border: 1px solid black;
+    box-sizing: border-box; /* Include border in width calculation */
+  margin-top: 25px;
+  margin-left: 50px;
+  border-radius: 20px 20px 20px 30px;
+    }
+    #as{
+        margin-left: 20px;
+        color: blue;
+    }
+    #sa{
+        margin-left: 20px;
+    }
+    #sd{
+        text-align: center;
+    }
+    #ds{
+        margin-left: 250px;
+        margin-bottom: 50px;
+    }
+    #via1{
+        color: blue;
+    }
